@@ -1,0 +1,85 @@
+i{
+  color: white;
+}
+
+*{ 
+  padding: 0px; 
+  margin: 0px; 
+}
+
+.header_isi { 
+  width: 335px; 
+  height: 230px; 
+  padding: 180px 0px 90px 480px; 
+} 
+
+
+.box { 
+  background-color: rgba(0, 0, 0 ,0.7); 
+  height: 330px; 
+  border: 8px solid rgba(0, 0,  0 ,0.8);
+  border-radius: 15px;
+
+} 
+.login_regis { 
+  height: 40px; 
+  width: 260px; 
+  text-align: center; 
+  color: white; 
+  font-size: 17px; 
+  border-radius: 8px; 
+  background-color: rgba(255, 255, 255, 0.3); 
+  border: 3px solid black; 
+  margin-left: 30px; 
+  margin-top: 10px; 
+} 
+
+.tombol_login { 
+  width: 260px; 
+  height: 30px; 
+  text-align: center; 
+  background-color: #0288D1; 
+  color: white; 
+  font-size: 17px; 
+  border: 2px solid #0288D1; 
+  border-radius: 8px; 
+  margin-top: 20px; 
+  margin-left: 30px; 
+} 
+
+.login_regis:hover { 
+  border: 3px solid #fff;
+} 
+
+.tombol_login:hover { 
+  background-color: white; 
+  color: #0288D1; 
+  border: 2px solid white; 
+} 
+
+.chexbox { 
+  font-size: 15px; 
+  color: white; 
+  margin-left: 30px; 
+  margin-top: 10px; 
+  padding: 3px 3px;
+} 
+
+a{
+  float: right;
+  margin-right: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+
+.tc{  
+  color: #0288D1; 
+  font-size: 17px;
+  font-family: arial;
+  text-decoration: none; 
+  text-align: center;
+} 
+
+
+}
